@@ -1,1 +1,8 @@
+For Details and Dataset about the challenge, please visit this link
+https://www.drivendata.org/competitions/63/genetic-engineering-attribution/
+
+
+The neural network used in this notebook is unoptimized. 
+##next update
+Use keras tuner 
 
